@@ -1,4 +1,5 @@
 # Telegram-бот ___memes for important events___
+## JavaScript pet-проект
 
 Краткое описание:
 > my golden fund of memes 🤡 for important events /
