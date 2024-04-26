@@ -4,8 +4,8 @@
 Краткое описание:
 > my golden fund of memes 🤡 for important events /
 > chat with your coworkers  /
-> communication on dating apps / u
-> se this bot if you don't know what to write to someone
+> communication on dating apps / 
+> use this bot if you don't know what to write to someone
 
 Для запуска бота:
 1. Клонируем весь проект в локальный репозиторий
